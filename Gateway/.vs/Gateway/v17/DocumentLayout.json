@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git\\GateWayExample\\Gateway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73957291-D11C-481A-B306-076A3C5CF49C}|PopulateAPI\\PopulateAPI.csproj|c:\\git\\gatewayexample\\gateway\\populateapi\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73957291-D11C-481A-B306-076A3C5CF49C}|PopulateAPI\\PopulateAPI.csproj|solutionrelative:populateapi\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B62017-5F95-4925-99F5-33CD9FDDB42C}|domain\\domain.csproj|c:\\git\\gatewayexample\\gateway\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B62017-5F95-4925-99F5-33CD9FDDB42C}|domain\\domain.csproj|solutionrelative:domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B62017-5F95-4925-99F5-33CD9FDDB42C}|domain\\domain.csproj|c:\\git\\gatewayexample\\gateway\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B62017-5F95-4925-99F5-33CD9FDDB42C}|domain\\domain.csproj|solutionrelative:domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B62017-5F95-4925-99F5-33CD9FDDB42C}|domain\\domain.csproj|c:\\git\\gatewayexample\\gateway\\domain\\iventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B62017-5F95-4925-99F5-33CD9FDDB42C}|domain\\domain.csproj|solutionrelative:domain\\iventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A82C739-C955-43F5-8596-24AA8DF40764}|OrdersApi\\OrdersApi.csproj|c:\\git\\gatewayexample\\gateway\\ordersapi\\controllers\\orderapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A82C739-C955-43F5-8596-24AA8DF40764}|OrdersApi\\OrdersApi.csproj|solutionrelative:ordersapi\\controllers\\orderapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A82C739-C955-43F5-8596-24AA8DF40764}|OrdersApi\\OrdersApi.csproj|c:\\git\\gatewayexample\\gateway\\ordersapi\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A82C739-C955-43F5-8596-24AA8DF40764}|OrdersApi\\OrdersApi.csproj|solutionrelative:ordersapi\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF9CD61-6B10-4887-96E6-D58613B579F5}|IventoryService\\IventoryService.csproj|c:\\git\\gatewayexample\\gateway\\iventoryservice\\controllers\\iventoryapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF9CD61-6B10-4887-96E6-D58613B579F5}|IventoryService\\IventoryService.csproj|solutionrelative:iventoryservice\\controllers\\iventoryapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF9CD61-6B10-4887-96E6-D58613B579F5}|IventoryService\\IventoryService.csproj|c:\\git\\gatewayexample\\gateway\\iventoryservice\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF9CD61-6B10-4887-96E6-D58613B579F5}|IventoryService\\IventoryService.csproj|solutionrelative:iventoryservice\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EB2083-F075-4158-A8E6-857168C0AF42}|Product-Catalog-Service\\Product-Catalog-Service.csproj|c:\\git\\gatewayexample\\gateway\\product-catalog-service\\controllers\\productcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EB2083-F075-4158-A8E6-857168C0AF42}|Product-Catalog-Service\\Product-Catalog-Service.csproj|solutionrelative:product-catalog-service\\controllers\\productcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EB2083-F075-4158-A8E6-857168C0AF42}|Product-Catalog-Service\\Product-Catalog-Service.csproj|c:\\git\\gatewayexample\\gateway\\product-catalog-service\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EB2083-F075-4158-A8E6-857168C0AF42}|Product-Catalog-Service\\Product-Catalog-Service.csproj|solutionrelative:product-catalog-service\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EB2083-F075-4158-A8E6-857168C0AF42}|Product-Catalog-Service\\Product-Catalog-Service.csproj|c:\\git\\gatewayexample\\gateway\\product-catalog-service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22EB2083-F075-4158-A8E6-857168C0AF42}|Product-Catalog-Service\\Product-Catalog-Service.csproj|solutionrelative:product-catalog-service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EB2083-F075-4158-A8E6-857168C0AF42}|Product-Catalog-Service\\Product-Catalog-Service.csproj|c:\\git\\gatewayexample\\gateway\\product-catalog-service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22EB2083-F075-4158-A8E6-857168C0AF42}|Product-Catalog-Service\\Product-Catalog-Service.csproj|solutionrelative:product-catalog-service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EB2083-F075-4158-A8E6-857168C0AF42}|Product-Catalog-Service\\Product-Catalog-Service.csproj|c:\\git\\gatewayexample\\gateway\\product-catalog-service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EB2083-F075-4158-A8E6-857168C0AF42}|Product-Catalog-Service\\Product-Catalog-Service.csproj|solutionrelative:product-catalog-service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Git\\GateWayExample\\Gateway\\PopulateAPI\\Database.cs",
+              "RelativeDocumentMoniker": "PopulateAPI\\Database.cs",
+              "ToolTip": "C:\\Git\\GateWayExample\\Gateway\\PopulateAPI\\Database.cs",
+              "RelativeToolTip": "PopulateAPI\\Database.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T11:03:36.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Iventory.cs",
+              "DocumentMoniker": "C:\\Git\\GateWayExample\\Gateway\\domain\\Iventory.cs",
+              "RelativeDocumentMoniker": "domain\\Iventory.cs",
+              "ToolTip": "C:\\Git\\GateWayExample\\Gateway\\domain\\Iventory.cs",
+              "RelativeToolTip": "domain\\Iventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:00:49.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Git\\GateWayExample\\Gateway\\domain\\Order.cs",
+              "RelativeDocumentMoniker": "domain\\Order.cs",
+              "ToolTip": "C:\\Git\\GateWayExample\\Gateway\\domain\\Order.cs",
+              "RelativeToolTip": "domain\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:48:17.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Git\\GateWayExample\\Gateway\\domain\\product.cs",
+              "RelativeDocumentMoniker": "domain\\product.cs",
+              "ToolTip": "C:\\Git\\GateWayExample\\Gateway\\domain\\product.cs",
+              "RelativeToolTip": "domain\\product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:00:27.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Git\\GateWayExample\\Gateway\\OrdersApi\\Database.cs",
+              "RelativeDocumentMoniker": "OrdersApi\\Database.cs",
+              "ToolTip": "C:\\Git\\GateWayExample\\Gateway\\OrdersApi\\Database.cs",
+              "RelativeToolTip": "OrdersApi\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:56:45.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Git\\GateWayExample\\Gateway\\IventoryService\\Database.cs",
+              "RelativeDocumentMoniker": "IventoryService\\Database.cs",
+              "ToolTip": "C:\\Git\\GateWayExample\\Gateway\\IventoryService\\Database.cs",
+              "RelativeToolTip": "IventoryService\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:11:49.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Git\\GateWayExample\\Gateway\\Product-Catalog-Service\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Product-Catalog-Service\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Git\\GateWayExample\\Gateway\\Product-Catalog-Service\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Product-Catalog-Service\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T09:54:20.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Git\\GateWayExample\\Gateway\\Product-Catalog-Service\\appsettings.json",
+              "RelativeDocumentMoniker": "Product-Catalog-Service\\appsettings.json",
+              "ToolTip": "C:\\Git\\GateWayExample\\Gateway\\Product-Catalog-Service\\appsettings.json",
+              "RelativeToolTip": "Product-Catalog-Service\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T09:54:15.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\GateWayExample\\Gateway\\Product-Catalog-Service\\Program.cs",
+              "RelativeDocumentMoniker": "Product-Catalog-Service\\Program.cs",
+              "ToolTip": "C:\\Git\\GateWayExample\\Gateway\\Product-Catalog-Service\\Program.cs",
+              "RelativeToolTip": "Product-Catalog-Service\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:02:51.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Git\\GateWayExample\\Gateway\\Product-Catalog-Service\\Database.cs",
+              "RelativeDocumentMoniker": "Product-Catalog-Service\\Database.cs",
+              "ToolTip": "C:\\Git\\GateWayExample\\Gateway\\Product-Catalog-Service\\Database.cs",
+              "RelativeToolTip": "Product-Catalog-Service\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:57:13.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductCatalog.cs",
+              "DocumentMoniker": "C:\\Git\\GateWayExample\\Gateway\\Product-Catalog-Service\\Controllers\\ProductCatalog.cs",
+              "RelativeDocumentMoniker": "Product-Catalog-Service\\Controllers\\ProductCatalog.cs",
+              "ToolTip": "C:\\Git\\GateWayExample\\Gateway\\Product-Catalog-Service\\Controllers\\ProductCatalog.cs",
+              "RelativeToolTip": "Product-Catalog-Service\\Controllers\\ProductCatalog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:26:59.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderAPI.cs",
+              "DocumentMoniker": "C:\\Git\\GateWayExample\\Gateway\\OrdersApi\\Controllers\\OrderAPI.cs",
+              "RelativeDocumentMoniker": "OrdersApi\\Controllers\\OrderAPI.cs",
+              "ToolTip": "C:\\Git\\GateWayExample\\Gateway\\OrdersApi\\Controllers\\OrderAPI.cs",
+              "RelativeToolTip": "OrdersApi\\Controllers\\OrderAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:38:41.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IventoryApi.cs",
+              "DocumentMoniker": "C:\\Git\\GateWayExample\\Gateway\\IventoryService\\Controllers\\IventoryApi.cs",
+              "RelativeDocumentMoniker": "IventoryService\\Controllers\\IventoryApi.cs",
+              "ToolTip": "C:\\Git\\GateWayExample\\Gateway\\IventoryService\\Controllers\\IventoryApi.cs",
+              "RelativeToolTip": "IventoryService\\Controllers\\IventoryApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:36:32.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
